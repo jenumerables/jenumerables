@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @jenumerables
+# 👋 Hi, I’m @jenumerables
 
 - 👀 I’m interested in Data Engineering, Data Analytics, and Cloud technologies
 - 🌱 I’m currently studying for M.S. Data Analytics & building DE projects
