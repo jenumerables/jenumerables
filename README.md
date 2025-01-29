@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @jenumerables
 
-🌱 WGU M.S. Data Analytics | DBA | Analytics Engineering
+Data Architecture | Business Intelligence | Data Modeling | Power BI |  DBA | Enterprise Data Warehousing
 
 <!---
 jenumerables/jenumerables is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
