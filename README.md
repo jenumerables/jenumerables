@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @jenumerables
+# 👋 Hi, I’m Jeff Enumerables
 
 Data Architecture | Business Intelligence | Data Modeling | Power BI |  DBA | Enterprise Data Warehousing
 
